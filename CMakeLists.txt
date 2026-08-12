@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.20)
+cmake_minimum_required(VERSION 3.22)
 
 project(cpp_raylib_cmake_template LANGUAGES CXX)
 
